@@ -26,7 +26,9 @@ I build clean, conversion-focused websites using no-code platforms like WordPres
 
 ### 🔗 External Links
 - 🌐 [Notion Mini-Portfolio](https://your-notion-link.com)
-- 🧑‍💼 [Upwork Profile](https://upwork.com/yourprofile)
-- ⚒️ [Fiverr Gig](https://fiverr.com/yourgig)
+- 📸 [Instagram](https://instagram.com/lokeshmahajan_999)
+
+Let’s build something that works.
+
 
 > Let’s build something that works.
