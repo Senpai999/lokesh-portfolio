@@ -28,7 +28,6 @@ I build clean, conversion-focused websites using no-code platforms like WordPres
 - 🌐 [Notion Mini-Portfolio](https://your-notion-link.com)
 - 📸 [Instagram](https://instagram.com/lokeshmahajan_999)
 
+
 Let’s build something that works.
 
-
-> Let’s build something that works.
