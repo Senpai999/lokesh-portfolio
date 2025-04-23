@@ -25,7 +25,7 @@ I build clean, conversion-focused websites using no-code platforms like WordPres
 ---
 
 ### 🔗 External Links
-- 🌐 [Notion Mini-Portfolio](https://your-notion-link.com)
+- 🌐 [Notion Mini-Portfolio](https://www.notion.so/Lokesh-Mahajan-Web-Design-Portfolio-1dee377ea0398073a629fb49a73211fd?pvs=4)
 - 📸 [Instagram](https://instagram.com/lokeshmahajan_999)
 
 
