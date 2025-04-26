@@ -25,7 +25,8 @@ A custom WordPress website designed for an online Pharmacy Billing course. Built
 *Homepage hero with pitch, learning benefits,Background video, and CTA*
 
 #### Course Curriculum
-![Course Curriculum](./pharmacy-img-2.png)  
+![Course Curriculum](./Coursepage1.png)
+![Course Curriculum](./Coursepage2.png)  
 *Expandable module layout using Tutor LMS*
 
 #### Practice Quiz
